@@ -1,5 +1,5 @@
 # PolytopiaCityOrigin
-A project to tell who the original owner of a city was in the game The Battle Of Polytopia by Midjiwan AB. 
+A project to tell what tribe originally owned a city in the game The Battle Of Polytopia by Midjiwan AB. 
 
 This is in a first stage of development and so is not always correct. 
 
