@@ -1,0 +1,19 @@
+Xin-Xi,bu,cha,gu,li,po,sha,szu,xi,yo
+Imperius,ca,do,ica,ip,lo,lus,ma,mo,mus,nu,pi,re,res,ro,te,sum
+Bardur,ark,bu,fla,gru,gu,lak,lin,ork,rø,tof,ur
+Oumaji,ba,dor,gh,ha,ji,ke,la,lim,mu,on,si,ye
+Kickoo,si,va,an,nu,lu,ko,no,lo,oki,li,ma
+Hoodrick,th,ley,lo,ol,ber,don,ick,we,in,go,wa,ry,do
+Luxidoor,iss,lô,ga,exi,pô,ni,au,ki,em,ly,ux,uss,ou
+Vengir,gor,tu,dis,bu,nt,ar,pe,rz,cth,na,xas,th,he,st,im,ck
+Zebasi,la,zan,mo,za,zim,ya,bo,wa,co,zu
+Ai-Mo,so,to,po,lee,dee,tï,pï,fï,sï,nï,lï,kï
+Quetzali,ja,ix,ex,was,tz,el,qu,ill,chu,ca,ya,wop,cho,tal,tek
+Aquarion,quo,do,tis,nép,ico,éid,po,fic,tun,pol,lan,aq,at,tic,nau,séi
+Special Characters
+Xin-Xi,-
+Kickoo, 
+Luxidoor,",'
+Ai-Mo, 
+Quetzali, 
+Replacements,o/;ø,o^;ô,i:;ï,e';é
